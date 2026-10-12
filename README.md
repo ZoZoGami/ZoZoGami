@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Optimized Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Applied+Machine+Learning+%26+AI;Healthcare+Tech+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Applied+Machine+Learning+%26+AI+Practitioner)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Computer Science & Engineering Graduate</b> <br>
@@ -77,6 +77,16 @@
 ### 🏦 [Bank Customer Demographic Inference](https://github.com/ZoZoGami/bank-customer-demographic-inference)
 * **Tech:** Python, scikit-learn, MLP Neural Network, RobustScaler, K-Means Clustering
 * Predictive tabular modeling on 41,188 banking records to infer missing demographic age attributes and cluster clients into lifetime value cohorts.
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoZoGami&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
