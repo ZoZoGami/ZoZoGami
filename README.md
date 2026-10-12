@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=550&lines=Full-Stack+Engineer+%7C+AI+%26+ML+Practitioner;Building+Scalable+Web+Apps+%26+Applied+AI;Passionate+about+Healthcare+Tech+%26+Clean+Code)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Computer Science & Engineering Graduate</b> passionate about building production-grade web systems, data science pipelines, and intelligent AI applications.
+  <b>Computer Science & Engineering Graduate</b>  passionate about building production-grade web systems, data science pipelines, and intelligent AI applications.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
