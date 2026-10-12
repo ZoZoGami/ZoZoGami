@@ -80,6 +80,17 @@
 
 ---
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZoZoGami&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoZoGami&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+</div>
+
+---
+
 <div align="center">
   <b>Let's build something remarkable together!</b><br>
   Feel free to reach out via <a href="mailto:faiyazahmadprotik@gmail.com">Email</a> or connect on <a href="https://github.com/ZoZoGami">GitHub</a>.
